@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstatistis_for_datascience=self.webpackChunkstatistis_for_datascience||[]).push([[2230],{6468:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/statistics-for-datascience/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

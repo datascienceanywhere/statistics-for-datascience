@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstatistis_for_datascience=self.webpackChunkstatistis_for_datascience||[]).push([[9647],{7121:(s,e,t)=>{t.r(e),t.d(e,{default:()=>d});t(6540);var a=t(4164),r=t(5500),c=t(7559),i=t(2831),n=t(1656),u=t(4848);function d(s){return(0,u.jsx)(r.e3,{className:(0,a.A)(c.G.wrapper.docsPages),children:(0,u.jsx)(n.A,{children:(0,i.v)(s.route.routes)})})}}}]);

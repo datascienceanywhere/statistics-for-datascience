@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstatistis_for_datascience=self.webpackChunkstatistis_for_datascience||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/statistics-for-datascience/blog","blogTitle":"Blog","authorsListPath":"/statistics-for-datascience/blog/authors"}')}}]);
