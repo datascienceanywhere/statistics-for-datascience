@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstatistis_for_datascience=self.webpackChunkstatistis_for_datascience||[]).push([[2498],{2498:(e,s,t)=>{t.d(s,{createArchitectureServices:()=>c.S});var c=t(3009);t(8198)}}]);

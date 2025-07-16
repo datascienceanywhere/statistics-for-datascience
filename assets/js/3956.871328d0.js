@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstatistis_for_datascience=self.webpackChunkstatistis_for_datascience||[]).push([[3956],{3956:(s,e,a)=>{a.d(e,{createRadarServices:()=>t.f});var t=a(2852);a(8198)}}]);

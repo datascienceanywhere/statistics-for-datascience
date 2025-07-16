@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstatistis_for_datascience=self.webpackChunkstatistis_for_datascience||[]).push([[8188],{8188:(e,s,t)=>{t.d(s,{createPieServices:()=>a.f});var a=t(9786);t(8198)}}]);
