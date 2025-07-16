@@ -83,8 +83,8 @@ const config = {
       navbar: {
         title: 'Datascience anywhere',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'datascience anywhere',
+          src: 'img/datascience_anywhere.png',
         },
         items: [
           {
